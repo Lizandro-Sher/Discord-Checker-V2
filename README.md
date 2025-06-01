@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RLT9fQgtGMW7jTw1ps/giphy.gif" height="200" alt="Scanner Animation">
+  <img src="" height="200" alt="Scanner Animation">
 </p>
 
 ---
