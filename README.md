@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Discord Checker - Premium</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/status-Finalizado-blue?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/API-Proxies%20Ativos-green?style=for-the-badge&logo=cloudflare" />
   <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Visualiza%C3%A7%C3%B5es" />
 </p>
