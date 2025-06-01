@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="" height="200" alt="Scanner Animation">
+  <img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/1/19/Conquista.png/revision/latest?cb=20250215155454&path-prefix=pt-br" height="200" alt="conquista">
 </p>
 
 ---
